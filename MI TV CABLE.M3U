@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
-https://archive.org/download/zaltv/zaltv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",9/Jul/2020
-https://archive.org/download/intro_20191220/INTRO.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-https://archive.org/download/intro_20191220/INTRO.mp4
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg" group-title="NASA",NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cartoon_Network-2.gif" group-title="Infantiles",Cartoon Network
@@ -223,3 +216,31 @@ https://tecnoplay.club/play/principal.php?c=73&f=.m3u8
 #EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxsports3.png" group-title="Deportes",Fox Sports 3
 https://tecnoplay.club/play/principal.php?c=75&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxsports3.png" group-title="Deportes",Fox Sports 3 Sur
+https://tecnoplay.club/play/principal.php?c=76&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/winsport.png" group-title="Deportes",Win Sports
+https://tecnoplay.club/play/principal.php?c=101&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/GOLFLATINO.png" group-title="Deportes",Golf channel
+https://tecnoplay.club/play/principal.php?c=83&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1026317637880635392/gp9EQA7c.jpg" group-title="Deportes",Espn Sec Network 
+https://tecnoplay.club/play/principal.php?c=139&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/36-369397_espnu-logo-espn-u.png" group-title="Deportes",Espn U 
+https://tecnoplay.club/play/principal.php?c=138&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtv.png" group-title="Musica",MTV
+https://tecnoplay.club/play/principal.php?c=98&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtvlive.png" group-title="Musica",MTV Live
+https://tecnoplay.club/play/principal.php?c=133&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/f81yQzER_400x400.jpg" group-title="Musica",MTV Hits
+https://tecnoplay.club/play/principal.php?c=99&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://tombercupresents.com/wp-content/uploads/2016/08/vh1.jpg" group-title="Musica",VH1
+https://tecnoplay.club/play/principal.php?c=104&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/vh1%20c.jpg" group-title="Musica",Vh1 Classics
+https://tecnoplay.club/play/principal.php?c=103&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="Musica",HTV
+https://tecnoplay.club/play/principal.php?c=91&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="Musica",Concert channel
+https://tecnoplay.club/play/principal.php?c=33&f=.m3u8 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_musica.png" group-title="Musica",Claro music
+https://tecnoplay.club/play/principal.php?c=28&f=.m3u8 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_musica.png" group-title="Musica",Claro Music 2
+https://tecnoplay.club/play/principal.php?c=29&f=.m3u8 
