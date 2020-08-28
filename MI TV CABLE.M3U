@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg" group-title="NASA",NASA
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg" group-title
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/661.ts
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cartoon_Network-2.gif" group-title="Infantiles",Cartoon Network
 https://tecnoplay.club/play/principal.php?c=21&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/bomerang.png" group-title="Infantiles",Boomerang
