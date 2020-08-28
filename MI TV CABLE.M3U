@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
-https://archive.org/download/zaltv/zaltv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",9/Jul/2020
-https://archive.org/download/intro_20191220/INTRO.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-https://archive.org/download/intro_20191220/INTRO.mp4
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg" group-title="NASA",NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Cartoon_Network-2.gif" group-title="Infantiles",Cartoon Network
