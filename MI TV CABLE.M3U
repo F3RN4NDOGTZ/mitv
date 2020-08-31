@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg",NASA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg",AZTECA 7 
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/60ebdd63-60ce-4738-beec-2e6d7a15038e:TUL2/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/789800.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/dd/f6/59ddf618dd8267d879956d3c558391e4.jpg",CHAVO
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/661.ts
 
