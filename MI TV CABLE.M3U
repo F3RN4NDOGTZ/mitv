@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:0 type="stream" channelId="255" group="NACIONALES" logo="http://127.0.0.1/", Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+httpS://gotvip.xyz/play/14368_30000.ts
 #EXTINF:0 type="stream" channelId="1665" group="SPAIN" logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0 type="stream" channelId="2555" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png", Sol TV
